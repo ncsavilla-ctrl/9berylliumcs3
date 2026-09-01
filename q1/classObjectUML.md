@@ -13,7 +13,6 @@
 ## Methods
 | Method | Description |
 |---|---|
-
 | updateStreams(amount: int)| Displays the amount of streams per month by the selected artist|
 | displayInfo(Selected_artist) | Displays the info by the selected artist |
 | displayGenre(Selected_song) | Displays the kind of genre by the selected song |
