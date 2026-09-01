@@ -21,3 +21,7 @@ School Year: 2026-2027
 [View my Chinese Zodiac Exercise](q1/zodiacBerylliumSavilla.py)
 
 [View my ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
+
+[View my OOP Seed System](classObjectUML.md)
+
+[Class Diagram](images/classDiagram.png)
