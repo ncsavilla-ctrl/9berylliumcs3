@@ -25,3 +25,5 @@ School Year: 2026-2027
 [View my OOP Seed System](q1/classObjectUML.md)
 
 [Class Diagram](q1/images/classDiagram.png)
+
+[View my OOP Seed System II](q1/classAttributesMethods.md)
