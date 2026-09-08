@@ -6,7 +6,7 @@ class MusicGenre:
         self._streams = streams
 
     def displayInfo(self, selected_artist):
-        if self.__artist == selected_artist:
+            if self.__artist == selected_artist:
         print(f"Title: {self.title}, Genre: {self.genre}, Artist: {self.__artist}, Streams: {self._streams}")
 
     def updateStreams(self, amount):
