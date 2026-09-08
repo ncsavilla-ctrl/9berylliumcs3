@@ -23,9 +23,9 @@ object1 = MusicGenre("La La Lost You", "indie pop", "NIKI", "585,000,000")
 object2 = MusicGenre("Mahika", "OPM", "Adie", "446,000,000")
 object3 = MusicGenre("Fortnight", "synth-pop", "Taylor Swift", "1,239,082,552")
 
-object1.displayInfo(object1._artist)
-object2.displayInfo(object2._artist)
-object3.displayInfo(object3._artist)
+object1.displayInfo(object1.MusicGenre)
+object2.displayInfo(object2.MusicGenre)
+object3.displayInfo(object3.MusicGenre)
 
 print("--- BEFORE ---")
 print("Object 1: displayInfo")
