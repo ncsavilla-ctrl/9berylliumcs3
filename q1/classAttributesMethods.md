@@ -29,9 +29,12 @@ Describe any changes made to your original class.
 ## Analysis
 
 ### Why did you make your chosen attribute private?
+I made my chosen attributes private because there are information that are too private for the artist. Since I myself is a listener of music, it is best to keep other things private rather than spreading the whole background online. If other parts of the program changed it directly, it would not just cause error to my code but also to the information that should be only kept as hidden.
 
 ### Which method changes the state of your object?
+The method that changes the state of my object is probably the displayInfo, because this just likely shows the GENERAL information needed rather than just the specific attribute the person is asking for. This 
 
 ### How did your two objects demonstrate that instances are independent?
+
 
 ### What is the difference between your class diagram and your object diagram?
