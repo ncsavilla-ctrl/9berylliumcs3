@@ -44,14 +44,16 @@ Explanation: This multiplicity fits my system because as a person who listens to
 
 ## Analysis
 ### What is the association between your two classes?
-
+DiskAlbum is associated with an artist because each album has an artist. The association between the DiskAlbum and Artist classes is that an artist can create or have multiple albums.
 
 ### What multiplicity did you choose and why?
-
+I chose one to many because many albums may also belong to one artist, vice versa. For example, one artist can have multiple albums. Another example that I've also previously said was many artists can also collaborate in one album, which is already following the multiplicity. This is appropriate because an artist may not have any albums yet, but an artist can also have multiple albums.
 
 ### How did you implement the relationship in Python?
-
+I implemented the relationship by storing an artist object as an attribute inside my DiskAlbum object. The artist attribute stores the related Artist object. 
 
 ### Why did you store an object reference instead of copying its data?
-### If your relationship uses many, why is a list appropriate?
+I store the object reference so the album can directly refer to the artist object. This will probably avoid duplication of the artist's information. Besides this, this will also allow the same artist object to be used by multiple albums.For example, instead of storing "NIKI" as separate copied data, the album can store a reference to the Artist object representing NIKI.
 
+### If your relationship uses many, why is a list appropriate?
+In my observation, a list is appropriate when one object can associated with multiple objects. For example, an artist's list could contain object1, object2, and object3, where each object is a different DiskAlbum. Therefore, it allows multiple albums to be stored and accessed together.
