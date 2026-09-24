@@ -29,3 +29,5 @@ School Year: 2026-2027
 [View my OOP Seed System II](q1/classAttributesMethods.md)
 
 [View my OOP Act III](q1/classRelationships.md)
+
+[View my OOP Act IV](q1/advancedRelationships.md)
