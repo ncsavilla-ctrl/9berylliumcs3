@@ -31,3 +31,10 @@ School Year: 2026-2027
 [View my OOP Act III](q1/classRelationships.md)
 
 [View my OOP Act IV](q1/advancedRelationships.md)
+
+
+# Quarter 2
+
+## Activities
+
+[View my Encapsulation Activity 3](q2/sg_8encapsulation.py)
