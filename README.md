@@ -38,4 +38,5 @@ School Year: 2026-2027
 ## Activities
 
 [View my Encapsulation Activity 3](q2/sg_8encapsulation.py)
+
 [View my Inheritance FA 1](q2/sg_9inheritance.py)
