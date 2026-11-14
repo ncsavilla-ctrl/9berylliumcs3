@@ -1,12 +1,12 @@
-class Patient:
-  def __init__(self, name, bill_amount):
-    self.name = name
-    self.bill_amount = bill_amount
+class Patient: # This creates the parent class named Patient
+  def __init__(self, name, bill_amount): # This initializes the patient's and bill amount
+    self.name = name # This stores the patient's name
+    self.bill_amount = bill_amount # This stores the original bill amount
 
-  def get_name(self):
-    return self.name
+  def get_name(self): # This creates a method that returns the patient's name
+    return self.name # This returnsthe patient's name
 
-  def set_name(self, name):
+  def set_name(self, name): 
     self.name = name
 
   def get_bill_amount(self):
