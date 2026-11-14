@@ -46,3 +46,5 @@ School Year: 2026-2027
 [View my Polymorphism Activity 1](q2/sg_11enhanced_hospital_billing_system.py)
 
 [View my Duck Typing Answers Activity 2](q2/sg_11ducktyping_questions.md)
+
+[View my Duck Typing Vehicles Code](q2/sg_11ducktyping_vehicles.py)
