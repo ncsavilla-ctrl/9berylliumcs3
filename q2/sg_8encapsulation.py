@@ -27,7 +27,6 @@ class BankAccount: # This creates the parent class named BankAccount
         print(f"Balance: {self.balance:.2f}\n") # This prints the balance
 
 
-
     a1 = BankAccount(12345, 1000) # This creates an object named a1 from the BankAccount class
 
     print("Output:") # This prints the output
